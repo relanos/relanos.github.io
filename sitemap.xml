@@ -4,18 +4,26 @@
         <loc>
             http://relanos.github.io/blog/2013/07/22/get-started-with-octopress-in-github-in-a-few-minutes/
         </loc>
-        <lastmod>2013-07-23T00:00:04+03:00</lastmod>
+        <lastmod>2013-07-23T00:18:46+03:00</lastmod>
     </url>
     <url>
         <loc>http://relanos.github.io/robots.txt</loc>
-        <lastmod>2013-07-22T23:39:55+03:00</lastmod>
+        <lastmod>2013-07-23T00:18:46+03:00</lastmod>
     </url>
     <url>
         <loc>http://relanos.github.io/blog/archives/</loc>
-        <lastmod>2013-07-23T00:00:04+03:00</lastmod>
+        <lastmod>2013-07-23T00:18:46+03:00</lastmod>
+    </url>
+    <url>
+        <loc>http://relanos.github.io/blog/</loc>
+        <lastmod>2013-07-23T00:18:46+03:00</lastmod>
+    </url>
+    <url>
+        <loc>http://relanos.github.io/archives/</loc>
+        <lastmod>2013-07-23T00:18:46+03:00</lastmod>
     </url>
     <url>
         <loc>http://relanos.github.io/</loc>
-        <lastmod>2013-07-23T00:00:04+03:00</lastmod>
+        <lastmod>2013-07-23T00:18:46+03:00</lastmod>
     </url>
 </urlset>
