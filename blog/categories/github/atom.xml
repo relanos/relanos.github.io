@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Chili Relanos blog]]></title>
-  <link href="http://relanos.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Github | Chili Relanos blog]]></title>
+  <link href="http://relanos.github.io/blog/categories/github/atom.xml" rel="self"/>
   <link href="http://relanos.github.io/"/>
   <updated>2013-07-23T00:00:11+03:00</updated>
   <id>http://relanos.github.io/</id>
@@ -20,21 +20,15 @@
     <id>http://relanos.github.io/blog/2013/07/22/get-started-with-octopress-in-github-in-a-few-minutes</id>
     <content type="html"><![CDATA[<p>Octopress is a great blog framework. One can start blogging in a few minutes using the github for the static pages/posts hosting.</p>
 
-<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-<span class='line-number'>3</span>
-<span class='line-number'>4</span>
-<span class='line-number'>5</span>
-<span class='line-number'>6</span>
-<span class='line-number'>7</span>
-</pre></td><td class='code'><pre><code class=''><span class='line'>git clone git://github.com/imathis/octopress.git octopress
-</span><span class='line'>cd octopress/
-</span><span class='line'>bundle install
-</span><span class='line'>rake install
-</span><span class='line'>rake setup_github_pages
-</span><span class='line'>rake generate
-</span><span class='line'>rake deploy</span></code></pre></td></tr></table></div></figure>
-
+<p><code>
+git clone git://github.com/imathis/octopress.git octopress
+cd octopress/
+bundle install
+rake install
+rake setup_github_pages
+rake generate
+rake deploy
+</code></p>
 ]]></content>
   </entry>
   
