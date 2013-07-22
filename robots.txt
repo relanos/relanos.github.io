@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://relanos.github.io/sitemap.xml 
