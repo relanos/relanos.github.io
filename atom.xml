@@ -4,7 +4,7 @@
   <title><![CDATA[Chili Relanos blog]]></title>
   <link href="http://relanos.github.io/atom.xml" rel="self"/>
   <link href="http://relanos.github.io/"/>
-  <updated>2013-09-01T11:08:17+03:00</updated>
+  <updated>2013-09-01T11:12:33+03:00</updated>
   <id>http://relanos.github.io/</id>
   <author>
     <name><![CDATA[Chiil Relanos]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Change theme in octopress]]></title>
+    <link href="http://relanos.github.io/blog/2013/09/01/change-theme-in-octopress/"/>
+    <updated>2013-09-01T11:10:00+03:00</updated>
+    <id>http://relanos.github.io/blog/2013/09/01/change-theme-in-octopress</id>
+    <content type="html"><![CDATA[<p>Select your theme from <a href="https://github.com/imathis/octopress/wiki/3rd-Party-Octopress-Themes">this page</a> and install it like this:</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>git clone git://github.com/tommy351/Octopress-Theme-Slash.git .themes/slash
+</span><span class='line'>rake install\['slash'\]
+</span><span class='line'>rake generate</span></code></pre></td></tr></table></div></figure>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Get started with octopress in github in a few minutes.]]></title>
